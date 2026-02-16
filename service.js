@@ -1,0 +1,1 @@
+const serviceName = "service in dev 2"
